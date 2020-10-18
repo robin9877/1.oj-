@@ -10,7 +10,7 @@ public class lpp{
 }
 
 
-/*** 
+
 public class lpp{
     public static void main(String[] args){
        int x = 5;
@@ -21,14 +21,12 @@ public class lpp{
        System.out.println("y is :"+y);
     }
 }
-***//*** 
 public class lpp{
 
     public static void main(String[] args){
         System.out.println("hello world");
     }
-}**/
-/*** 
+}
 public class lpp{
     public static void main(String[] args){
         String strOrig ="hello world,hello Runoob";
@@ -40,4 +38,4 @@ public class lpp{
         }
     }
 }
-***/
+
